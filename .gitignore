@@ -35,3 +35,8 @@ yarn-error.*
 # typescript
 *.tsbuildinfo
 .vercel
+
+#Firebase Config Secrets
+.env
+FirebaseConfig.ts
+dist
