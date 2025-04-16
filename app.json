@@ -14,9 +14,11 @@
         "backgroundColor": "#ffffff"
       },
       "ios": {
+        "bundleIdentifier": "meni.pack.ios",
         "supportsTablet": true
       },
       "android": {
+        "package": "meni.pack",
         "adaptiveIcon": {
           "foregroundImage": "./assets/images/adaptive-icon.png",
           "backgroundColor": "#ffffff"

@@ -5,6 +5,7 @@ import { FoodRandomizerWidget } from '@/components/FoodRandomizer';
 import { CalendarWidget } from '@/components/CalendarWidget';
 import { colors } from '@/constants/colors';
 import { Link } from 'expo-router';
+import { NavigationContainer } from '@react-navigation/native';
 
 export default function HomeScreen() {
   return (
